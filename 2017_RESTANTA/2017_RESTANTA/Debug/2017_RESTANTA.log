@@ -1,0 +1,17 @@
+﻿  2017_RESTANTA.cpp
+  Apartament.cpp
+  Casa.cpp
+  Contract.cpp
+C:\Users\andrei.funaru\Desktop\Personal\Alinuta\oop\SUBIECTE_VECHI\2017\2017_RESTANTA\2017_RESTANTA\Contract.cpp(25,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\andrei.funaru\Desktop\Personal\Alinuta\oop\SUBIECTE_VECHI\2017\2017_RESTANTA\2017_RESTANTA\Contract.cpp(27,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\andrei.funaru\Desktop\Personal\Alinuta\oop\SUBIECTE_VECHI\2017\2017_RESTANTA\2017_RESTANTA\Contract.cpp(28,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\andrei.funaru\Desktop\Personal\Alinuta\oop\SUBIECTE_VECHI\2017\2017_RESTANTA\2017_RESTANTA\Contract.cpp(37,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\andrei.funaru\Desktop\Personal\Alinuta\oop\SUBIECTE_VECHI\2017\2017_RESTANTA\2017_RESTANTA\Contract.cpp(38,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\andrei.funaru\Desktop\Personal\Alinuta\oop\SUBIECTE_VECHI\2017\2017_RESTANTA\2017_RESTANTA\Contract.cpp(69,48): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\andrei.funaru\Desktop\Personal\Alinuta\oop\SUBIECTE_VECHI\2017\2017_RESTANTA\2017_RESTANTA\Contract.cpp(73,54): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Firma.cpp
+  Istoric_proprietati.cpp
+  Proprietate.cpp
+  Generating Code...
+C:\Users\andrei.funaru\Desktop\Personal\Alinuta\oop\SUBIECTE_VECHI\2017\2017_RESTANTA\2017_RESTANTA\Contract.cpp(78): warning C4715: 'Contract::calc_pret': not all control paths return a value
+  2017_RESTANTA.vcxproj -> C:\Users\andrei.funaru\Desktop\Personal\Alinuta\oop\SUBIECTE_VECHI\2017\2017_RESTANTA\Debug\2017_RESTANTA.exe

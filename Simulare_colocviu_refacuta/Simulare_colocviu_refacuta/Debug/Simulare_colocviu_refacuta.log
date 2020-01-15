@@ -1,0 +1,8 @@
+﻿  Simulare_colocviu_refacuta.cpp
+  manager_singleton.cpp
+C:\Users\andrei.funaru\Desktop\Personal\Alinuta\oop\SUBIECTE_VECHI\2020\Simulare_colocviu_refacuta\Simulare_colocviu_refacuta\Candidat_IF2.h(16,1): warning C4250: 'Candidat_IF2': inherits 'Candidat_2fac::Candidat_2fac::citire' via dominance
+C:\Users\andrei.funaru\Desktop\Personal\Alinuta\oop\SUBIECTE_VECHI\2020\Simulare_colocviu_refacuta\Simulare_colocviu_refacuta\Candidat_2fac.h(14): message : see declaration of 'Candidat_2fac::citire'
+C:\Users\andrei.funaru\Desktop\Personal\Alinuta\oop\SUBIECTE_VECHI\2020\Simulare_colocviu_refacuta\Simulare_colocviu_refacuta\Candidat_IF2.h(16,1): warning C4250: 'Candidat_IF2': inherits 'Candidat_2fac::Candidat_2fac::afisare' via dominance
+C:\Users\andrei.funaru\Desktop\Personal\Alinuta\oop\SUBIECTE_VECHI\2020\Simulare_colocviu_refacuta\Simulare_colocviu_refacuta\Candidat_2fac.h(15): message : see declaration of 'Candidat_2fac::afisare'
+  Generating Code...
+  Simulare_colocviu_refacuta.vcxproj -> C:\Users\andrei.funaru\Desktop\Personal\Alinuta\oop\SUBIECTE_VECHI\2020\Simulare_colocviu_refacuta\Debug\Simulare_colocviu_refacuta.exe
